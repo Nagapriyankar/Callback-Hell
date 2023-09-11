@@ -4,17 +4,13 @@ html {
     height: 100%;
 }
 
-#countdown {
-    color: rgb(9, 12, 208);
-    font-weight: bolder;
-    text-align: center;
-    font-size: 100px;
-}
 
-#statement {
+
+#countdown {
     color: rgb(0, 6, 128);
     font-weight: bolder;
     font-size: 80px;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 150px;
 }
+
